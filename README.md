@@ -1,6 +1,7 @@
-<p>Sistema de testes para validaÁ„o de documentos</p>
+Sistema de testes para valida√ß√£o de documentos
+
 
 Sistema para validar mensagens recebidas em formato String
-utilizando-se conexıes Http / socket , idealizado inicialmente como ponto de integraÁ„o em aplicaÁıes de alta e baixa plataforma
+utilizando-se conex√µes Http / socket , idealizado inicialmente como ponto de integra√ß√£o em aplica√ß√µes de alta e baixa plataforma
 
-inicialmente ser· utilizado para testar sistemas AS400 (http/Socket) Cobol (socket), e futuramente com outros formatos como XML, Json
+inicialmente ser√° utilizado para testar sistemas AS400 (http/Socket) Cobol (socket), e futuramente com outros formatos como XML, Json
